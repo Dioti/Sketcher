@@ -1,0 +1,10 @@
+Made using OpenCV 4.5.1 (https://opencv.org/)
+-----
+Icons obtained from Flaticon (www.flaticon.com) and used in accordance
+with Flaticon license and CC 3.0 BY. Icon contributors:
+- Pixel perfect
+- Freepik
+- Dave Gandy
+- Alfredo Hernandez
+-----
+Dirt texture by Cethiel from OpenGameArt.org
