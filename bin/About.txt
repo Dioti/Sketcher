@@ -1,0 +1,9 @@
+Sketcher
+-----
+Author: Natasha Pearl (natasha.pearl08@gmail.com)
+v0.85
+-----
+How to use:
+- Draw on the canvas by clicking and dragging with the mouse.
+- Click on the Render button underneath the drawing canvas.
+- To modify the rendered image, adjust the settings and click the Render button again.
